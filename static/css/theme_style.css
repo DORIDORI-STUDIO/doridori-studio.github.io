@@ -125,7 +125,7 @@ Author URI: https://www.templatemonster.com/authors/googlycode/
 }
 
 .header-area {
-  background-color: #000;
+  background-color: #22272E;
   border-bottom: 1px solid #fff;
 }
 .header-area .main-wrapper img {
@@ -181,7 +181,7 @@ Author URI: https://www.templatemonster.com/authors/googlycode/
   display: flex;
   flex-direction: column;
   z-index: 10;
-  background: #000;
+  background: #22272E;
 }
 
 .navbar-nav > li > a {
@@ -942,7 +942,7 @@ Author URI: https://www.templatemonster.com/authors/googlycode/
   }
 }
 .footer-area {
-  background-color: #000;
+  background-color: #22272E;
   padding: 150px 0 60px 0;
 }
 .footer-area .footer-widgets {
@@ -1057,7 +1057,7 @@ body {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: #000000;
+  background-color: #22272E;
   font-family: "Barlow Condensed", sans-serif;
   text-transform: capitalize;
 }
